@@ -52,4 +52,4 @@ Autor
 =====
 Projeto feito por Alunos/Turma no curso Téc. Desenvolvimento. 👨
 
-[![Linkedin Badge]( )
+[![Linkedin Badge](https://img.shields.io/badge/-Geovânia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovaniab/)](https://www.linkedin.com/in/geovaniab/
